@@ -1,0 +1,3 @@
+Log in to your JetBrains Account and get licenses that you purchased. If you don't have a JetBrains Account yet, use the Register button.
+pyCharm automatically shows the list of your licenses and their details like expiration date and identifier
+
